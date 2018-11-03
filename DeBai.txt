@@ -1,0 +1,8 @@
+Tạo class Complex gồm các thành phần:
+- Phần thực, phần ảo dạng số thực.
+- Hàm khởi tạo 
+- Hàm khởi tạo sao chép 
+- Hàm nhập số phức 
+- Hàm in ra số phức dạng a+bi 
+- Định nghiã lại * để tính tích hai số phức 
+- Định nghĩa lại == để so sánh 2 số phức
